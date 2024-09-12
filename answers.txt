@@ -1,0 +1,7 @@
+*A* What are some Pros and Cons of Agile developement?
+Pros:
+1. very flexible with what needs to get done
+2. product gets done quickly and functions well
+Cons:
+1. quick timeline stresses out engineers
+2. documentation suffers
