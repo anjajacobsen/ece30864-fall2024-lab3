@@ -5,3 +5,6 @@ Pros:
 Cons:
 1. quick timeline stresses out engineers
 2. documentation suffers
+
+*B* Explain the role and responsibilities of the Scrum Master vs the Produce Owner
+1. Scrum masters are more like managing the team and making sure deadlines get met, where as product owners care more about the customers and figuring out what the product needs to meet their needs.
