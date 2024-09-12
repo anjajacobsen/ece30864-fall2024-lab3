@@ -8,3 +8,7 @@ Cons:
 
 *B* Explain the role and responsibilities of the Scrum Master vs the Produce Owner
 1. Scrum masters are more like managing the team and making sure deadlines get met, where as product owners care more about the customers and figuring out what the product needs to meet their needs.
+
+*C* What are the 3 types of meetings that happen during a sprint cycle?
+1. Sprint planning - plan out whats going to get done during the Sprint, and the deadlines
+2. Sprint review - show what you accomplished during the sprint and get feedback
